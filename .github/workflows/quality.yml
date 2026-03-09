@@ -1,0 +1,25 @@
+name: Quality Guardrails
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  checks:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Block em dash
+        run: |
+          if grep -RIn "—" . --exclude-dir=.git; then
+            echo "Em dash found"
+            exit 1
+          fi
+      - name: Block banned hype words
+        run: |
+          PAT='\\b(delve|tapestry|vibrant|groundbreaking|synergy|transformative|paramount|holistic|paradigm)\\b'
+          if grep -RInE "$PAT" . --include='*.md' --include='*.txt'; then
+            echo "Banned wording found"
+            exit 1
+          fi
