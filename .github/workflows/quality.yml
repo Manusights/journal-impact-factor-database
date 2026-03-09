@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v4
       - name: Block em dash
         run: |
-          if grep -RIn "—" . --exclude-dir=.git; then
+          if grep -RInP "\x{2014}" . --exclude-dir=.git --exclude=.github/workflows/quality.yml; then
             echo "Em dash found"
             exit 1
           fi
