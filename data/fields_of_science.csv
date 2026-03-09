@@ -1,0 +1,12 @@
+field_id,field_name,parent_field
+BIO,Life Sciences,
+MED,Clinical Medicine,Life Sciences
+IMM,Immunology,Life Sciences
+ONC,Oncology,Clinical Medicine
+NEU,Neuroscience,Life Sciences
+CAR,Cardiology,Clinical Medicine
+INF,Infectious Disease,Clinical Medicine
+CHE,Chemistry,
+PHY,Physics,
+ENG,Engineering,
+CS,Computer Science,

@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "JournalMetadata",
+  "type": "object",
+  "properties": {
+    "journal_name": {"type": "string"},
+    "issn": {"type": "string"},
+    "publisher": {"type": "string"},
+    "subject_area": {"type": "string"},
+    "quartile": {"type": "string", "enum": ["Q1", "Q2", "Q3", "Q4", "NA"]},
+    "impact_factor": {"type": ["number", "null"]},
+    "submission_url": {"type": ["string", "null"], "format": "uri"},
+    "publisher_url": {"type": ["string", "null"], "format": "uri"}
+  },
+  "required": ["journal_name", "publisher", "subject_area"]
+}
