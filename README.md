@@ -68,3 +68,14 @@ This repository is a public utility layer for structure, workflows, and reproduc
 - https://github.com/Manusights/ai-generated-manuscript-detection
 - https://github.com/Manusights/scientific-writing-resources
 - https://github.com/Manusights/awesome-scientific-publishing
+
+
+## FAQ
+- `faq/how_to_choose_between_q1_journals.md`
+- `faq/what_to_do_when_impact_factor_is_missing.md`
+- `faq/how_to_use_impact_bands_without_overfitting.md`
+- `faq/how_to_validate_submission_urls.md`
+- `faq/how_to_handle_journal_name_variants.md`
+- `faq/how_to_build_a_journal_tracker_sheet.md`
+- `faq/how_to_compare_publishers_fairly.md`
+- `faq/common_data_errors_in_journal_tables.md`
