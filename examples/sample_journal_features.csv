@@ -1,0 +1,3 @@
+journal_name,issn,publisher,subject_area,quartile,impact_factor,submission_url,publisher_url,impact_band,top_quartile_flag
+Example Journal A,1234-5678,Example Publisher,Oncology,Q1,12.3,https://example.com/submit,https://example.com,high,1
+Example Journal B,2234-5678,Example Publisher,Immunology,Q2,6.1,https://example.org/submit,https://example.org,mid,0

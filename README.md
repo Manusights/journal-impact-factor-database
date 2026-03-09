@@ -29,3 +29,16 @@ Manusights helps researchers improve manuscripts before submission using expert 
 - Website: https://manusights.com
 - Journal guides: https://manusights.com/journal-guides
 - Peer review resources: https://manusights.com/resources
+
+
+## Reproducible outputs
+
+- License and usage guidance: `docs/DATA_LICENSE_AND_USAGE.md`
+- Citation metadata: `docs/CITATION.cff`
+- Feature engineering helper: `scripts/derive_journal_features.py`
+
+## Cite this resource
+
+If this repository helps your work, cite:
+
+> Manusights. Journal Impact Factor Database (Research Utility). GitHub repository. https://github.com/Manusights/journal-impact-factor-database

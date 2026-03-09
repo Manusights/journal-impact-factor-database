@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: Journal Impact Factor Database (Research Utility)
+message: "If you use this repository, please cite it."
+type: dataset
+authors:
+  - family-names: Manusights
+url: https://github.com/Manusights/journal-impact-factor-database
+repository-code: https://github.com/Manusights/journal-impact-factor-database
+license: MIT
