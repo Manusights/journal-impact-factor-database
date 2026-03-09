@@ -79,3 +79,8 @@ This repository is a public utility layer for structure, workflows, and reproduc
 - `faq/how_to_build_a_journal_tracker_sheet.md`
 - `faq/how_to_compare_publishers_fairly.md`
 - `faq/common_data_errors_in_journal_tables.md`
+
+
+## Cornerstone guides
+- `guides/journal_selection_system_guide.md`
+- `guides/data_quality_for_journal_tables.md`
