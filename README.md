@@ -59,3 +59,12 @@ Suggestions are welcome through GitHub Issues and Pull Requests.
 
 For official impact factor values, always use licensed primary data from your institution.
 This repository is a public utility layer for structure, workflows, and reproducible transformations.
+
+
+## Related Manusights Resources
+- https://github.com/Manusights/journal-impact-factor-database
+- https://github.com/Manusights/scientific-peer-review-checklist
+- https://github.com/Manusights/journal-submission-guides
+- https://github.com/Manusights/ai-generated-manuscript-detection
+- https://github.com/Manusights/scientific-writing-resources
+- https://github.com/Manusights/awesome-scientific-publishing
