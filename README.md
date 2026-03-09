@@ -84,3 +84,7 @@ This repository is a public utility layer for structure, workflows, and reproduc
 ## Cornerstone guides
 - `guides/journal_selection_system_guide.md`
 - `guides/data_quality_for_journal_tables.md`
+
+
+## Case studies and diagrams
+See `case-studies/` and `diagrams/` for worked examples and visual workflows.
