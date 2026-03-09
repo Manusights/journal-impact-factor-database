@@ -23,3 +23,8 @@ A team has a translational oncology manuscript and needs a target journal plus t
 - Faster internal alignment
 - Fewer speculative submissions
 - Better cover letter positioning
+
+## References
+- guides/journal_selection_system_guide.md
+- templates/journal_shortlist_template.csv
+- trackers/submission_pipeline_template.csv

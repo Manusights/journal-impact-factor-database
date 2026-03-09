@@ -88,3 +88,8 @@ This repository is a public utility layer for structure, workflows, and reproduc
 
 ## Case studies and diagrams
 See `case-studies/` and `diagrams/` for worked examples and visual workflows.
+
+
+## Quickstart and learning paths
+- `quickstart/first_30_minutes.md`
+- `learning-paths/`
