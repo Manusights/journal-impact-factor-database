@@ -1,5 +1,7 @@
 # Journal Impact Factor Database (Research Utility)
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE) [![Maintained](https://img.shields.io/badge/maintained-yes-brightgreen.svg)](.) [![Website](https://img.shields.io/badge/Manusights-manusights.com-blue.svg)](https://manusights.com)
+
 This repository provides structured journal metadata for research workflows around journal selection, bibliometrics, and manuscript planning.
 
 ## What is included
@@ -42,3 +44,12 @@ Manusights helps researchers improve manuscripts before submission using expert 
 If this repository helps your work, cite:
 
 > Manusights. Journal Impact Factor Database (Research Utility). GitHub repository. https://github.com/Manusights/journal-impact-factor-database
+
+
+## Maintenance
+
+This repository is actively maintained. Content refreshes are planned monthly.
+
+## Contributing
+
+Suggestions are welcome through GitHub Issues and Pull Requests.
