@@ -53,3 +53,9 @@ This repository is actively maintained. Content refreshes are planned monthly.
 ## Contributing
 
 Suggestions are welcome through GitHub Issues and Pull Requests.
+
+
+## Accuracy boundaries
+
+For official impact factor values, always use licensed primary data from your institution.
+This repository is a public utility layer for structure, workflows, and reproducible transformations.
