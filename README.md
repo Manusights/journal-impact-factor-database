@@ -26,7 +26,7 @@ If you have licensed access, you can map your internal JCR data into this public
 
 ## About Manusights
 
-Manusights helps researchers improve manuscripts before submission using expert peer review.
+Manusights is an AI pre-submission review for research manuscripts: a section-by-section critique, citation checks and severity-ranked fixes before you submit.
 
 - Website: https://manusights.com
 - Journal guides: https://manusights.com/journal-guides
